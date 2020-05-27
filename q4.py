@@ -1,0 +1,5 @@
+values = input("Enter: ")
+listy = values.split(",")
+tupply = tuple(listy)
+print(listy)
+print(tupply)
